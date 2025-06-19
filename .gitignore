@@ -1,0 +1,11 @@
+# Ignore all video files
+*.mp4
+*.mov
+*.avi
+
+# Ignore local-only media folders
+media/
+
+# Ignore temporary/OS-specific files
+.DS_Store
+Thumbs.db
