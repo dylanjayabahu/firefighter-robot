@@ -1,5 +1,5 @@
 # Firefighter_Robot - TEJ4MI Final Project
-Autonomous robot built to locate and extinguish flames in a maze. All-time record setter for Maze 1 &amp; 2 – TEJ4MI final project at Laurel Heights Secondary School.
+Autonomous robot built to locate and extinguish flames in a maze. All-time record setter for Maze 1 &amp; 2 at Laurel Heights Secondary School.
 
 ---
 
@@ -16,8 +16,8 @@ This project was completed as part of the TEJ4MI course at **Laurel Heights Seco
 
 Our robot holds the **record times** for both mazes in the course:
 
-- 🔥 **Maze 1 Record: 2.20 sec** (previously 4.52 sec) [Watch on YouTube](https://www.youtube.com/watch?v=M4keCAInF54)
-- 🔥 **Maze 2 Record: 3.63 sec** (previously 19 sec) [Watch on YouTube]([https://youtube.com/YOUR_VIDEO_2_LINK](https://www.youtube.com/watch?v=7t9GoRSy7xQ))
+- 🔥 **Maze 1 Record - 2.20 sec** (previously 4.52 sec): [Watch on YouTube](https://www.youtube.com/watch?v=M4keCAInF54)
+- 🔥 **Maze 2 Record - 3.63 sec** (previously 19 sec): [Watch on YouTube](https://www.youtube.com/watch?v=7t9GoRSy7xQ)
 
 ---
 
