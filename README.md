@@ -33,7 +33,7 @@ The challenge: build an autonomous robot capable of navigating a maze, identifyi
 - It must come within 30 cm of the candle before it extinguishes the flame.
 - The bot must solve all rooms with the same code and same initial conditions; you must scan and extinguish candles in rooms 1-3 before extinguishing room 4
 
-> A successful run is timed based on when the flame in **Room 4** is extinguished, provided the bot would have stopped for any flame encountered in earlier rooms. Runs were timed with frame-by-frame analysis. Time starts on the first frame your bot's LCD/LED lights up, and ends when the candle is extinguished.
+> A successful run is timed based on when the flame in **Room 4** is extinguished, provided the bot would have stopped for any flame encountered in earlier rooms. Runs were timed with frame-by-frame analysis. Time starts on the first frame your bot's LCD/LED lights up and ends when the candle is extinguished.
 
 ---
 
