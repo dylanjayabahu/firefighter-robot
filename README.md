@@ -23,7 +23,7 @@ Our robot holds the **record times** for both mazes in the course:
 
 ## Objective
 
-The challenge: build an autonomous robot capable of navigating a maze, identifying a flame in any of four rooms, and extinguishing it using an onboard fan:
+The challenge: build an autonomous robot capable of navigating a maze, identifying a flame in any of four rooms, and extinguishing it.
 
 - The bot starts from a designated position in the maze.
 - It must navigate the maze with no human interference.
