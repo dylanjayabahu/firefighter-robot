@@ -39,4 +39,4 @@ The challenge: build an autonomous robot capable of navigating a maze, identifyi
 
 ## 🛠 Design Files
 
-- 🔗 [View 3D CAD Model on Onshape](https://cad.onshape.com/documents/ccdd3e31b0f462692a2f0a77/w/efdcf03ecd18fc1c5cf2cd6e/e/e502c3be77e0614f32e6e58f?renderMode=0&uiState=6854802fdea46470fd020684)
+- 🔗 [View 3D CAD Model on Onshape](https://cad.onshape.com/documents/ccdd3e31b0f462692a2f0a77/w/efdcf03ecd18fc1c5cf2cd6e/e/e502c3be77e0614f32e6e58f?renderMode=0&uiState=6855ecf21632f52f9ba54142)
