@@ -1,4 +1,4 @@
-# Firefighter_Robot - TEJ4MI Final Project
+# Firefighter Robot - TEJ4MI Final Project
 Autonomous robot built to locate and extinguish flames in a maze. All-time record setter for Maze 1 &amp; 2 at Laurel Heights Secondary School.
 
 ---
