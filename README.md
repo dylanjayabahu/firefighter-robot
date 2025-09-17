@@ -3,11 +3,6 @@ Autonomous robot built to locate and extinguish flames in a maze. All-time recor
 
 ---
 
-## Team
-
-- **Dylan Jayabahu**  
-- **Merlyn Dong**
-
 This project was completed as part of the TEJ4MI course at **Laurel Heights Secondary School**, taught by **Mr. Webb**, whose dedication and passion for teaching hands-on engineering education made this project possible.
 
 ---
